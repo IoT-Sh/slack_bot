@@ -14,3 +14,4 @@ How to use:
 1. open bitbucket and create a repository
 2. Go to https://developer.atlassian.com/cloud/bitbucket/rest/intro documentation for API
 2. Authenticate for API and generate barrier token
+3. run bot.py
